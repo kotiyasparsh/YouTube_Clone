@@ -1,6 +1,6 @@
 Welcome to the YouTube Clone repository! This project is a front-end clone of YouTube, created using HTML and CSS. The objective of this project is to replicate the basic layout and design of YouTube, demonstrating proficiency in web design and responsive layout techniques.
 
-<a href="https://kotiyasparsh.github.io/YouTube_clone/"> YouTube_clone_link</a>
+
 
 # YouTube Clone Project 🚀
 
@@ -14,7 +14,7 @@ Welcome to the YouTube Clone project! This project is a web application built us
 - **Mobile-First Design**: Ensuring the application is accessible and functional on all devices.
 
 ## Demo
-Check out the live demo of the project [here]([https://your-project-link.com](https://kotiyasparsh.github.io/YouTube_clone/)).
+Check out the live demo of the project [<a href="https://kotiyasparsh.github.io/YouTube_clone/"> YouTube_clone_link</a>]([https://your-project-link.com](https://kotiyasparsh.github.io/YouTube_clone/)).
 
 ## Getting Started
 Follow these steps to get a local copy of the project up and running on your machine.
